@@ -10,7 +10,7 @@ React native mobile app with google maps & push notifications.
 
 ![city-maps-sydney-screen.jpg](https://github.com/kkamara/useful/raw/main/city-maps-sydney-screen.jpg)
 
-![city-maps-germany-screen.jpg](https://github.com/kkamara/useful/raw/main/city-maps-germany-screen.jpg)
+![city-maps-berlin-screen.jpg](https://github.com/kkamara/useful/raw/main/city-maps-berlin-screen.jpg)
 
 ![city-maps-paris-screen.jpg](https://github.com/kkamara/useful/raw/main/city-maps-paris-screen.jpg)
 
